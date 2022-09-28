@@ -1,0 +1,105 @@
+CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall male, at least 6'.
+CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.
+CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+
+
+
+
+
+License Plate L337QE9
+Make: Honda
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
+Weight: 220 lbs
+
+
+
+--
+License Plate L337DV9
+Make: Honda
+Color: Blue
+Owner: Joe Germuska
+Height: 6'2"
+Weight: 164 lbs
+
+
+--
+License Plate L3375A9
+Make: Honda
+Color: Blue
+Owner: Dartey Henv
+Height: 6'1"
+Weight: 204 lbs
+
+
+--
+License Plate L337WR9
+Make: Honda
+Color: Blue
+Owner: Hellen Maher
+Height: 6'2"
+Weight: 130 lbs
+
+
+
+./interview-628618:1:Fits the profile, except for the make of his car.  Should be considered a suspect if and only if there is evidence Boyer owns a second car.
+
+./interview-9620713:5:Considered a suspect until proven otherwise, but would have to eliminate other suspects to confirm.
+
+
+./interview-862173:3:Does Waite own a second car?  If so, he may be a suspect.  Otherwise is not a suspect.
+
+
+
+
+
+
+
+Matt Waite
+
+./vehicles:13567:Owner: Matt Waite
+./people:5017:Matt Waite	M	24	Alpine Street, line 79
+./memberships/Terminal_City_Library:378:Matt Waite
+./memberships/Delta_SkyMiles:605:Matt Waite
+./memberships/AAA:998:Matt Waite
+./memberships/Museum_of_Bash_History:784:Matt Waite
+./interviews/interview-862173:3:Does Waite own a second car?  If so, he may be a suspect.  Otherwise is not a suspect.
+
+
+Brian Boyer
+
+/vehicles:13658:Owner: Brian Boyer
+./people:1342:Brian Boyer	M	39	Harbor Point Boulevard, line 183
+./memberships/Terminal_City_Library:1190:Brian Boyer
+./memberships/Delta_SkyMiles:978:Brian Boyer
+./memberships/AAA:1244:Brian Boyer
+./memberships/Museum_of_Bash_History:296:Brian Boyer
+./interviews/interview-628618:1:Fits the profile, except for the make of his car.  Should be considered a suspect if and only if there is evidence Boyer owns a second car.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
